@@ -11,3 +11,18 @@ Construction (L-band):
 - Second mask was created from thresholded residual image to roll-in more faint sources.
 - Masks were merged, artefacts were manually excised and some missed faint sources (mainly around the problem source) were manually added.
 - Data were jointly imaged with final mask down to a threshold of 1 uJy.
+
+Blocks used:
+
+```
+1601409818
+1601756163
+1601928962
+1602098167
+1602183844
+1602270065
+1602704665
+1602792067
+1602873187
+1602964865
+```
